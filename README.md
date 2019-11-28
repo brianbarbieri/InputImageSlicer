@@ -10,9 +10,11 @@ The outputs of the script are two pandas dataframes:
 - A dataframe which contains the new label coordinates
 
 For example, the following image:
+
 ![Labelled image](https://github.com/brianbarbieri/InputImageSlicer/blob/master/images/full.png)
 
 Will be sliced into multiple images, for example of size (418, 418), as shown below:
+
 ![Sliced image](https://github.com/brianbarbieri/InputImageSlicer/blob/master/images/sliced.png)
 
 
