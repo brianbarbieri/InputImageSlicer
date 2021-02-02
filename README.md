@@ -18,4 +18,4 @@ Will be sliced into multiple images, for example of size (418, 418), as shown be
 ![Sliced image](https://github.com/brianbarbieri/InputImageSlicer/blob/master/images/sliced.png)
 
 
-The scipt is includes both a .py file and a notebook file.
+The script is includes both a .py file and a notebook file.
